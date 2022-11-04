@@ -97,6 +97,18 @@ h3 {
   text-decoration: underline;
 }
 
+.git-link {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.git-link:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 0px) {
   img {
     display: none;
