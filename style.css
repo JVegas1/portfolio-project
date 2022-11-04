@@ -17,6 +17,21 @@ h3 {
   margin: 0;
 }
 
+#yoga {
+    text-align: center;
+    font-size: large;
+  }
+
+   #yogurt {
+      text-align: center;
+font-size: large;
+    }
+
+     #weather {
+  text-align: center;
+  font-size: large;
+}
+
 h1 {
   font-size: 96px;
 }
