@@ -1,8 +1,7 @@
 #portfolio {
-    background-image: url(./images/Screenshot\ 2023-01-05\ at\ 7.19.02\ PM.png);
+    background-image: url(./images/Screenshot\ 2023-01-05\ at\ 7.19.02\ PM.png), no-repeat;
     flex-flow: wrap;
-    background: no-repeat;
-    opacity: 80%;
+
 }
 
 header ul {
