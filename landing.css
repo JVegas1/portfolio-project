@@ -2,6 +2,8 @@
     background-image: url(./images/Screenshot\ 2023-01-05\ at\ 7.19.02\ PM.png);
     flex-flow: wrap;
 background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 header ul {
