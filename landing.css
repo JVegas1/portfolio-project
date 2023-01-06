@@ -203,3 +203,7 @@ footer {
 .intro {
     margin-left: 200px;
 }
+#signup {
+    background-color: rgb(94, 25, 20);
+    color: antiquewhite;
+}
