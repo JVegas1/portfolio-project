@@ -209,3 +209,9 @@ footer {
     opacity: 80%;
     border-color: #f9faf8;
 }
+#signupin {
+    background-color: rgb(94, 25, 20);
+    color: antiquewhite;
+    opacity: 60%;
+    border-color: #f9faf8;
+}
